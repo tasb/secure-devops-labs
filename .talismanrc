@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: secret-files/appsettings.json
+  checksum: b6acee41a324183c20c585c25f454dfe9dd086d8d8e3e78015090d0db31d9d1a
+- filename: secret-files/my-cert.pem
+  checksum: 685e5429dc31053e89483c548ef75f5f2fec967d9e8d2ff67b5ace8554dba033
+- filename: secret-files/secret
+  checksum: 76516bded59e24275d366ddd607bf708895649fe4ef41fe488d558d2120a8e34
+version: "1.0"
