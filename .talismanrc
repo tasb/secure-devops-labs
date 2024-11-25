@@ -1,4 +1,8 @@
 fileignoreconfig:
+- filename: azure_sp.json
+  checksum: 1772869d65295888628924f43c969a39ea6880afee3014c3e64f2b839d992501
+- filename: gh_token
+  checksum: 0532db205ca81d22346146ad3281f7129c459e976a4e4e289b920762451853cf
 - filename: secret-files/appsettings.json
   checksum: b6acee41a324183c20c585c25f454dfe9dd086d8d8e3e78015090d0db31d9d1a
 - filename: secret-files/my-cert.pem
